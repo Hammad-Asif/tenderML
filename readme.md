@@ -39,7 +39,14 @@
 </ul>
 
 <h2>Project Outcome</h2>
-<p>The project successfully achieved the goal of classifying and extracting information from diverse PDF documents in real-time. The solution's deployment on AWS EC2 with autoscaling ensures scalability, making it suitable for handling varying workloads.</p>
+<p>The project successfully achieved the goal of classifying and extracting information from diverse PDF documents in real-time with 95% accuracy. The solution's deployment on AWS EC2 with autoscaling ensures scalability, making it suitable for handling varying workloads.</p>
 
-<h2>Contact Information</h2>
-<p>For inquiries and support, please contact [Project Maintainer's Name] at <a href="mailto:contact@email.com">contact@email.com</a>.</p>
+<h2>
+    Technical Support
+</h2>
+<p>
+    You can open a support ticket by sending an email here: <a href="mailto:info@recursivedata.com" title="Open Support Ticket">
+        info@recursivedata.com
+    </a>
+</p>
+
